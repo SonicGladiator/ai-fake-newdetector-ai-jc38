@@ -1,4 +1,4 @@
-# 
+# Intelligent AI Fake News Detector extensions. Avec prise de décision automatisée et IA explicable — optimisé pour des performances maximales.
 
 
 
